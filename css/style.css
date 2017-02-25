@@ -135,6 +135,7 @@
 /* Main */
 
 	#main {
+		overflow-y: scroll;
 		height: 100%;
 		left: 0;
 		position: fixed;
